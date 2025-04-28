@@ -45,8 +45,8 @@ def getServiceDetailsByName(service_name, folder_path=""):
                 "max_order": Decimal(str(data.get("max_order", "1000"))),
                 "description": data.get("description", "No description available."),
                 "service_id": data.get("service_id", "N/A"),
-                "service_api": data.get("service_api", "https://smmgen.com/api/v2"),
-                "service_key": data.get("service_key", "1efd6fa8db2da5a2c4bcd0babf90dbe5")
+                "service_api": data.get("service_api", "https://SMMGenie.com/api/v2"),
+                "service_key": data.get("service_key", "98c6f5ba5f4a4b7a6bf26a7def1cfa7c")
             }
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON file {file_path}: {e}")
