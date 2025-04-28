@@ -1,10 +1,10 @@
 {
-        "service_name": "Twitter Likes",
-        "price_per_k": "2.3",
-        "min_order": "10",
-        "max_order": "10000",
-        "description": "Start: instant\nSpeed: 10K/Day maxx.\nDrop: %1-5\nRefill: 30 Days ♻️\nQuality: HQ profiles - (2021,2022,2023,2024,2025 mix old data)",
-        "service_id": "1699",
-        "service_api": "https://smmgenie.com/api/v2",
-        "service_key": "98c6f5ba5f4a4b7a6bf26a7def1cfa7c"
-    }
+    "service_name": "Twitter Likes",
+    "price_per_k": 2.3,
+    "min_order": 10,
+    "max_order": 10000,
+    "description": "Start: instant\nSpeed: 10K/Day maxx.\nDrop: %1-5\nRefill: 30 Days ♻️\nQuality: HQ profiles - (2021,2022,2023,2024,2025 mix old data)",
+    "service_id": 1699,
+    "service_api": "https://smmgenie.com/api/v2",
+    "service_key": "98c6f5ba5f4a4b7a6bf26a7def1cfa7c"
+}
